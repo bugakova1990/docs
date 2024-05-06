@@ -1,3 +1,6 @@
 # Тестовая документация
 Чек-лист для тестирования регистрации, логина и каталога https://docs.google.com/spreadsheets/d/1aAdBZ3lpVqMCQwauAuyKKIIUxyA0LpMrUKl2Jz6Pkc4/edit?usp=sharing
 Тест-кейсы для тестирования регистрации, авторизации и каталога товаров https://app.qase.io/project/G7?previewMode=side&suite=47&tab=properties&case=371 
+# Отчеты от дефектах и тестовый прогон
+Отчеты от дефектах https://github.com/bugakova1990/docs/blob/main/Issues.xlsx
+Результаты тестового прогона https://github.com/bugakova1990/docs/blob/main/G7-Express%2Brun%2B2024_05_05.pdf
