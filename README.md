@@ -1,5 +1,5 @@
 # Тестовая документация
-Чек-лист для тестирования регистрации, логина и каталога [https://docs.google.com/spreadsheets/d/1aAdBZ3lpVqMCQwauAuyKKIIUxyA0LpMrUKl2Jz6Pkc4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1EYsVVUOANmzcPTc003w8D3n9kljpCAwxnfk08f5rduQ/edit?usp=sharing)
+Чек-лист для тестирования регистрации, логина и каталога [https://docs.google.com/spreadsheets/d/1EYsVVUOANmzcPTc003w8D3n9kljpCAwxnfk08f5rduQ/edit?gid=0#gid=0] (https://docs.google.com/spreadsheets/d/1EYsVVUOANmzcPTc003w8D3n9kljpCAwxnfk08f5rduQ/edit?gid=0#gid=0)
 
 
 
